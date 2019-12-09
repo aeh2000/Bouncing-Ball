@@ -22,6 +22,6 @@ Week 4
 CHALLENGES
 - The problem I was having with my old game was the fact that when I clicked the mouse, the asteroid dropped at one location, and only dropped when the mouse was pressed. I wanted the asteroids to fall at an accelerating rate, but I wasn't sure how to get the asteroids to do that. 
 
-LINK
+LINKS
 - https://editor.p5js.org/aeh2000/present/pSKGzo14P
 - https://editor.p5js.org/aeh2000/sketches/pSKGzo14P
