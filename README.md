@@ -1,4 +1,5 @@
 #PROGRESS
+
 Week1
 - coming up with my idea, laying everything out, finding reference
 - I used my midterm as reference to create my game
