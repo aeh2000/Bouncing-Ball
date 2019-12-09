@@ -1,4 +1,4 @@
-Progress
+#Progress
 
 Week1
 -coming up with my idea, laying everything out, finding reference
