@@ -1,4 +1,4 @@
-#PROGRESS
+PROGRESS
 
 Week1
 - coming up with my idea, laying everything out, finding reference
@@ -19,5 +19,5 @@ Week 4
 - I've included my old game in the github so you could see where my problems were.
 
 
-#CHALLENGES
+CHALLENGES
 - The problem I was having with my old game was the fact that when I clicked the mouse, the asteroid dropped at one location, and only dropped when the mouse was pressed. I wanted the asteroids to fall at an accelerating rate, but I wasn't sure how to get the asteroids to do that. 
